@@ -1,1 +1,1 @@
-#Data Analysis and Database Management Using Python, Pandas, and MySQL: A Real-World Problem-Solving Project
+#Data Analysis and Database Management and also Data Visualization Using Python, Pandas,Matplotlib,Seaborn and MySQL: A Real-World Problem-Solving Project
